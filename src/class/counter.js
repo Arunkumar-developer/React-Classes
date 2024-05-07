@@ -28,9 +28,7 @@ class Counter extends Component {
       default:
         break;
     }
-    // this.setState({
-    //   count: this.state.count + 1,
-    // });
+    
 
     console.log("increment action working", this.state.count);
   };
