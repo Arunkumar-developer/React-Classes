@@ -1,12 +1,13 @@
 
-  import Counter from "./class/counter";
+
+import Product from "./fakeAPI/fakeApi";
 
 
 
 function App() {
   return (
     <div>
-       <Counter/> 
+       <Product/>
       
     </div>
     
