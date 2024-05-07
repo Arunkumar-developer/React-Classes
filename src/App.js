@@ -1,12 +1,14 @@
 
-  import Counter from "./class/counter";
+
+import Counter from "./class/counter";
+
 
 
 
 function App() {
   return (
     <div>
-       <Counter/> 
+       <Counter/>
       
     </div>
     
