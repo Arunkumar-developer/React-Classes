@@ -1,17 +1,11 @@
-
-
-import Counter from "./class/counter";
-
-
+import UseStateTodo from "./UseState/usestate";
 
 
 function App() {
   return (
     <div>
-       <Counter/>
-      
+       <UseStateTodo></UseStateTodo>
     </div>
-    
   );
 }
 
