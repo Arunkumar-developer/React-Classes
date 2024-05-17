@@ -1,11 +1,12 @@
-import Mounting from "./fakeApiCategory/fakeApiFilter";
+
+import IdComponent from "./fakeApiFilter/fakeApiFilter";
 
 
 
 function App() {
   return (
     <div>
-       <Mounting/>``
+       <IdComponent/>
     </div>
   );
 }
